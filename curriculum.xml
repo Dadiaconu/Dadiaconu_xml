@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+<datos_personales>
+<nombre>David Eduardo</nombre>
+<apellidos>Diaconu</apellidos>
+<telefono>643606688</telefono>
+<emails>
+<profesional>daviddiaconu478@gmail.com</profesional>
+<personal>daviddiaconu39@gmail.com</personal>
+</emails>
+<hobbies>Escuchar música, jugar videojuegos, salir con amigos</hobbies>
+</datos_personales>
+<experiencia_profesional>
+<trabajo>
+<empresa>BAGU</empresa>
+<puesto>Corredor y peón agrícola</puesto>
+</trabajo>
+<trabajo>
+<empresa>Burguer King</empresa>
+<puesto>Atención en caja</puesto>
+</trabajo>
+</experiencia_profesional>
+<formacion>
+<estudio>
+<centro>IES Campanar</centro>
+<titulacion>Bachillerato</titulacion>
+<inicio>2024</inicio>
+<fin>2026</fin>
+</estudio>
+<estudio>
+<centro>CEAC</centro>
+<titulacion>Grado Superior en ASIR</titulacion>
+<inicio>2026</inicio>
+<fin>En curso</fin>
+</estudio>
+<estudio>
+<centro>CEAC</centro>
+<titulacion>Grado Superior en ASIR</titulacion>
+</estudio>
+</formacion>
+<idiomas>
+<idioma>
+<nombre>Español</nombre>
+<nivel>Nativo</nivel>
+</idioma>
+<idioma>
+<nombre>Inglés</nombre>
+<nivel>Fluido</nivel>
+</idioma>
+<idioma>
+<nombre>Rumano</nombre>
+<nivel>Fluido</nivel>
+</idioma>
+<idioma>
+<nombre>Portugués</nombre>
+<nivel>Básico</nivel>
+</idioma>
+<idioma>
+<nombre>Valenciano</nombre>
+<nivel>Fluido</nivel>
+</idioma>
+</idiomas>
+</curriculum>
