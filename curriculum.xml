@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<curriculum>
-<datos_personales>
-<nombre>David Eduardo</nombre>
-<apellidos>Diaconu</apellidos>
-<telefono>643606688</telefono>
-<emails>
-<profesional>daviddiaconu478@gmail.com</profesional>
-<personal>daviddiaconu39@gmail.com</personal>
-</emails>
-<hobbies>Escuchar música, jugar videojuegos, salir con amigos</hobbies>
-</datos_personales>
-<experiencia_profesional>
-<trabajo>
-<empresa>BAGU</empresa>
-<puesto>Corredor y peón agrícola</puesto>
-</trabajo>
-<trabajo>
-<empresa>Burguer King</empresa>
-<puesto>Atención en caja</puesto>
-</trabajo>
-</experiencia_profesional>
-<formacion>
-<estudio>
-<centro>IES Campanar</centro>
-<titulacion>Bachillerato</titulacion>
-<inicio>2024</inicio>
-<fin>2026</fin>
-</estudio>
-<estudio>
-<centro>CEAC</centro>
-<titulacion>Grado Superior en ASIR</titulacion>
-<inicio>2026</inicio>
-<fin>En curso</fin>
-</estudio>
-<estudio>
-<centro>CEAC</centro>
-<titulacion>Grado Superior en ASIR</titulacion>
-</estudio>
-</formacion>
-<idiomas>
-<idioma>
-<nombre>Español</nombre>
-<nivel>Nativo</nivel>
-</idioma>
-<idioma>
-<nombre>Inglés</nombre>
-<nivel>Fluido</nivel>
-</idioma>
-<idioma>
-<nombre>Rumano</nombre>
-<nivel>Fluido</nivel>
-</idioma>
-<idioma>
-<nombre>Portugués</nombre>
-<nivel>Básico</nivel>
-</idioma>
-<idioma>
-<nombre>Valenciano</nombre>
-<nivel>Fluido</nivel>
-</idioma>
-</idiomas>
-</curriculum>
+<dadiaconu:curriculum xmlns:dadiaconu="https://dadiaconu.com/curriculum">
+<dadiaconu:datos_personales>
+<dadiaconu:nombre>David Eduardo</dadiaconu:nombre>
+<dadiaconu:apellidos>Diaconu</dadiaconu:apellidos>
+<dadiaconu:telefono>643606688</dadiaconu:telefono>
+<dadiaconu:emails>
+<dadiaconu:profesional>daviddiaconu478@gmail.com</dadiaconu:profesional>
+<dadiaconu:personal>daviddiaconu39@gmail.com</dadiaconu:personal>
+</dadiaconu:emails>
+<dadiaconu:hobbies>Escuchar música, jugar videojuegos, salir con amigos</dadiaconu:hobbies>
+</dadiaconu:datos_personales>
+<dadiaconu:experiencia_profesional>
+<dadiaconu:trabajo>
+<dadiaconu:empresa>BAGU</dadiaconu:empresa>
+<dadiaconu:puesto>Corredor y peón agrícola</dadiaconu:puesto>
+</dadiaconu:trabajo>
+<dadiaconu:trabajo>
+<dadiaconu:empresa>Burguer King</dadiaconu:empresa>
+<dadiaconu:puesto>Atención en caja</dadiaconu:puesto>
+</dadiaconu:trabajo>
+</dadiaconu:experiencia_profesional>
+<dadiaconu:formacion>
+<dadiaconu:estudio>
+<dadiaconu:centro>IES Campanar</dadiaconu:centro>
+<dadiaconu:titulacion>Bachillerato</dadiaconu:titulacion>
+<dadiaconu:inicio>2024</dadiaconu:inicio>
+<dadiaconu:fin>2026</dadiaconu:fin>
+</dadiaconu:estudio>
+<dadiaconu:estudio>
+<dadiaconu:centro>CEAC</dadiaconu:centro>
+<dadiaconu:titulacion>Grado Superior en ASIR</dadiaconu:titulacion>
+<dadiaconu:inicio>2026</dadiaconu:inicio>
+<dadiaconu:fin>En curso</dadiaconu:fin>
+</dadiaconu:estudio>
+<dadiaconu:estudio>
+<dadiaconu:centro>CEAC</dadiaconu:centro>
+<dadiaconu:titulacion>Grado Superior en ASIR</dadiaconu:titulacion>
+</dadiaconu:estudio>
+</dadiaconu:formacion>
+<dadiaconu:idiomas>
+<dadiaconu:idioma>
+<dadiaconu:nombre>Español</dadiaconu:nombre>
+<dadiaconu:nivel>Nativo</dadiaconu:nivel>
+</dadiaconu:idioma>
+<dadiaconu:idioma>
+<dadiaconu:nombre>Inglés</dadiaconu:nombre>
+<dadiaconu:nivel>Fluido</dadiaconu:nivel>
+</dadiaconu:idioma>
+<dadiaconu:idioma>
+<dadiaconu:nombre>Rumano</dadiaconu:nombre>
+<dadiaconu:nivel>Fluido</dadiaconu:nivel>
+</dadiaconu:idioma>
+<dadiaconu:idioma>
+<dadiaconu:nombre>Portugués</dadiaconu:nombre>
+<dadiaconu:nivel>Básico</dadiaconu:nivel>
+</dadiaconu:idioma>
+<dadiaconu:idioma>
+<dadiaconu:nombre>Valenciano</dadiaconu:nombre>
+<dadiaconu:nivel>Fluido</dadiaconu:nivel>
+</dadiaconu:idioma>
+</dadiaconu:idiomas>
+</dadiaconu:curriculum>
